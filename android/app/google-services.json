@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "557712702435",
+    "firebase_url": "https://pds---manufacturing-version-default-rtdb.firebaseio.com",
+    "project_id": "pds---manufacturing-version",
+    "storage_bucket": "pds---manufacturing-version.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557712702435:android:f7025580015df13d417ed6",
+        "android_client_info": {
+          "package_name": "com.example.pds_manufacturing_version"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSnRY2DwTJJePDObKv1apHywmT0yehik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
